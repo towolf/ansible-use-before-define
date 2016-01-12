@@ -1,0 +1,5 @@
+- name: Why can we "use before define" default variables from roles?
+  hosts: all
+  roles:
+    - one
+    - two
