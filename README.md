@@ -1,7 +1,7 @@
 # ansible-use-before-define
 
 Minimal playbook to demonstrate a surprising effect of default variables being
-in scope bewfore they are defined.
+in scope before they are defined.
 
 Simply run
 
